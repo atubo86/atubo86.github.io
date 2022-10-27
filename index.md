@@ -1,3 +1,5 @@
+一键WireGuard：[angristan / wireguard-install](https://github.com/angristan/wireguard-install)
+
 一键vps搭建：[Alvin9999 / new-pac](https://github.com/Alvin9999/new-pac/wiki/)
 
 一键SagerNet：[SagerNet / SagerNet](https://github.com/SagerNet/SagerNet)
@@ -67,6 +69,8 @@ MTProxyTLS一键安装绿色脚本：[ellermister / mtproxy](https://github.com/
 MTProxy：[TelegramMessenger / MTProxy](https://github.com/TelegramMessenger/MTProxy)
 
 Telegram UserBot：[TeamPGM / PagerMaid-Pyro](https://github.com/TeamPGM/PagerMaid-Pyro)
+
+迷雾通：[geph-official / geph4-client](https://github.com/geph-official/geph4-client/wiki/%E8%BF%B7%E9%9B%BE%E9%80%9A%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%E9%95%9C%E5%83%8F%EF%BC%89)
 
 -------
 arpl在线编译安装群晖教程：[fbelavenuto / arpl](https://github.com/fbelavenuto/arpl)
