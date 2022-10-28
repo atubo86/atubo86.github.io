@@ -1,4 +1,3 @@
-theme: minima
 一键WireGuard：[angristan / wireguard-install](https://github.com/angristan/wireguard-install)
 
 一键vps搭建：[Alvin9999 / new-pac](https://github.com/Alvin9999/new-pac/wiki/)
