@@ -18,7 +18,7 @@ Sing-box + ShadowTLS 一键管理脚本：[blog-misaka / singbox-shadowtls](http
 
 NaiveProxy 一键配置脚本：[blog-misaka / naiveproxy-script](https://github.com/blog-misaka/naiveproxy-script)
 
-VPS八合一共存脚本：[mack-a / v2ray-agent](https://github.com/mack-a/v2ray-agent)
+VPS八合一脚本：[mack-a / v2ray-agent](https://github.com/mack-a/v2ray-agent)
 
 维护vps实用规则：[Hackl0us / SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
 
@@ -30,11 +30,11 @@ VPSToolBox：[johnrosen1 / vpstoolbox](https://github.com/johnrosen1/vpstoolbox)
 
 一键开启BBR：[jinwyp / one_click_script](https://github.com/jinwyp/one_click_script)
 
-多协议多用户xray 面板：[vaxilu / x-ui](https://github.com/vaxilu/x-ui)
+X-ui 面板：[vaxilu / x-ui](https://github.com/vaxilu/x-ui)
 
 哪吒面板：[naiba / nezha](https://github.com/naiba/nezha)
 
-Linux面板：[midoks / mdserver-web](https://github.com/midoks/mdserver-web)
+mdserver-web面板：[midoks / mdserver-web](https://github.com/midoks/mdserver-web)
 
 云探针、多服务器探针、云监控、多服务器云监控：[cppla / ServerStatus](https://github.com/cppla/ServerStatus)
 
